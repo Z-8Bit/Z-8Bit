@@ -1,5 +1,14 @@
 # Hi, I'm Zishaan 👋
-🔭 I’m currently working on polybars and homepages.<br>🤝 Very willing to collab on similar ideas and ambitions lead with passion.<br>🌱 I’m currently learning CSS and C++.<br>🏋️‍♂️ Ask me about any tips on gym workouts, new music inspiration.<br>🏎️  Hardcore racing fan, the OG NeedforSpeed  series and GranTurismo 4.<br>☝️ Huge F1 fan, Sebastian Vettel 5 forever.<br>🏴‍☠️ I like to disobey laws to consume media.
+## Part-time student, full time idiot.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [zish1805@protonmail.com](mailto:zish18@proton.com)
+* 🚀  I'm currently working on polybars and homepages
+* 🧠  I'm learning CSS and JS.
+* 🤝  I'm open to collaborating on open-source projects that I would have a need for.
+* 🏋️‍♂️  Ask me about any tips on gym workouts, new music inspiration.
+* 🏎️  Hardcore racing fan (incl. F1), the OG NeedforSpeed series and GranTurismo 4.
+* 🏴‍☠️  I like to disobey laws to consume media.
 
 
 ## 🌐 Socials:
