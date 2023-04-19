@@ -10,13 +10,12 @@
 * 🏎️  Hardcore racing fan (incl. F1), the OG NeedforSpeed series and GranTurismo 4.
 * 🏴‍☠️  I like to disobey laws to consume media.
 
-
-# 🌐 Get in touch!
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zishaan#1279) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyzishaan) 
-
-# 💻 Languages I use:
+## 💻 Languages I use:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 Fancy numbers:
+## 📊 Fancy numbers:
 ![](https://github-readme-stats.vercel.app/api?username=Z-8Bit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-8Bit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🌐 Get in touch!
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zishaan#1279) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyzishaan) 
