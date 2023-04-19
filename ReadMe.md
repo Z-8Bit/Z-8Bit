@@ -1,5 +1,5 @@
 # Hi, I'm Zishaan 👋
-## Part-time student, full time idiot.
+## Part-time student, full-time idiot.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [zish1805@protonmail.com](mailto:zish18@proton.com)
