@@ -1,5 +1,5 @@
 # Hi, I'm Zishaan 👋
-🔭 I’m currently working on polybars and homepages.<br>🤝 Very willing to collab on similar ideas and ambitions lead with passion.<br>🌱 I’m currently learning CSS and C++.<br>🏋️‍♂️ Ask me about any tips on gym workouts, new music inspiration.<br>🏎️  hardcore racing fan, the OG NeedforSpeed  series and GranTurismo 4.<br>☝️ Huge F1 fan, Sebastian Vettel 5 forever.<br>🏴‍☠️ I like to disobey laws to consume media.
+🔭 I’m currently working on polybars and homepages.<br>🤝 Very willing to collab on similar ideas and ambitions lead with passion.<br>🌱 I’m currently learning CSS and C++.<br>🏋️‍♂️ Ask me about any tips on gym workouts, new music inspiration.<br>🏎️  Hardcore racing fan, the OG NeedforSpeed  series and GranTurismo 4.<br>☝️ Huge F1 fan, Sebastian Vettel 5 forever.<br>🏴‍☠️ I like to disobey laws to consume media.
 
 
 ## 🌐 Socials:
