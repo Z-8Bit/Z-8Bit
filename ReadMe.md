@@ -5,7 +5,7 @@
 * ✉️  You can contact me at [zish1805@protonmail.com](mailto:zish18@proton.com)
 * 🚀  I'm currently working on homepages
 * 🧠  I'm learning CSS and JS.
-* 🤝  Always open to collaborating on open-source projects that I would have a need for, shoot me a dm on discord (Zishaan#1279)
+* 🤝  Always open to collaborating on open-source projects that I would have a need for, shoot me a dm on discord (Zish18)
 * 🏋️‍♂️  Ask me about any tips on gym workouts, new music inspiration or club football as well.
 * 🏎️  Hardcore racing fan (incl. F1), the OG NeedforSpeed series and GranTurismo 4.
 * 🏴‍☠️  I like to disobey laws to consume media.
