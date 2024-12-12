@@ -1,12 +1,12 @@
-# Hi, I'm Zishaan 👋
+# Hi, I'm Zishaan
 ## Part-time student, full-time doofus.
 
 * 🌍  I'm from India
-* 🧠  I'm learning CSS at the momoment
-* 🚀  Currently working on a website for a local salon
+* 🧠  I'm taking a break from coding, pursuing other hobbies
+* 🚀  Made a website for a local salon as my latest project
 * 🤝  I'm always open to collaborate on open-source projects that catch my interest.
 * 🏎️  Hardcore racing fan (incl. F1, F2, Endurance racing), the OG NeedforSpeed series and GranTurismo 4.
-* 🏴‍☠️  I like to disobey laws to consume media.
+* 🏴‍☠️  If buying isn't ownership then piracy isn't stealing.
 * ✉️  You can contact me at [zish1805@protonmail.com](mailto:zish18@protonmail.com)
 
 ## 💻 Languages I use:
